@@ -1,0 +1,61 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    height: auto;
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+    background-color: white;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+h2 {
+    margin-top: 15px;
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 40px
+}
+
+p {
+    margin-top: 5px;
+    font-size: 25px;
+    color: black;
+}
+
+.main .main-title{
+    height: auto;
+    text-align: left;
+    margin-left: 2%;
+    /* background-color: darkblue; */
+    /* color: #28224d; */
+    /* color: darkslateblue; */
+    color: #270d39;
+    top: 10%;
+}
+
+.main .detail-container {
+    height: auto;
+    /* background-color: darkcyan; */
+    /* color: darkslateblue; */
+    color: #581E81;
+    margin-top: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.material-icons {
+    font-size: 5rem;
+}
+
+.detail-img {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.covid2 {
+    margin-top: 0px;
+}
