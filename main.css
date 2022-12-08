@@ -8,6 +8,7 @@ body {
     /* background-color: darkslateblue; */
     background-color: #581E81;
     font-family: 'Raleway', sans-serif;
+    height: 100%;
 }
 
 .wrap {
@@ -21,7 +22,7 @@ body {
 
 .wrap2 {
     position: absolute;
-    top: 90%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -101,4 +102,25 @@ a.btn {
     padding: 10px 20px;
     border-radius: 25px;
     background-color: #623c7d;
+}
+
+footer {
+    /* display: flex; */
+    /* justify-content: center; */
+    width: 100%;
+    height: 70px;
+    padding: 5px;
+    background-color: #3f165d;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+}
+
+.ftr {
+    margin-top: 10px;
+}
+
+a.github {
+    text-decoration: none;
+    color: white;
 }
